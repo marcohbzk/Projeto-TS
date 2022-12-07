@@ -1,0 +1,4 @@
+﻿ Conversação entre clientes Client 1: bla bla bla
+
+ Conversação entre clientes Client 1: bla bla bla
+

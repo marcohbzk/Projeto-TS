@@ -1,0 +1,73 @@
+C:\Users\rodri\Desktop\code\TS\Projeto_Ts\Projeto\obj\Debug\Projeto.csproj.AssemblyReference.cache
+C:\Users\rodri\Desktop\code\TS\Projeto_Ts\Projeto\obj\Debug\Projeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\rodri\Desktop\code\TS\Projeto_Ts\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\rodri\Desktop\code\TS\Projeto_Ts\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\rodri\Desktop\code\TS\Projeto_Ts\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Desktop\code\TS\Projeto_Ts\Projeto\obj\Debug\Projeto.Form1.resources
+C:\Users\rodri\Desktop\code\TS\Projeto_Ts\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\rodri\Desktop\code\TS\Projeto_Ts\Projeto\bin\Debug\Projeto.exe
+C:\Users\rodri\Desktop\code\TS\Projeto_Ts\Projeto\bin\Debug\Projeto.pdb
+C:\Users\rodri\Desktop\code\TS\Projeto_Ts\Projeto\bin\Debug\ProtocolSI.dll
+C:\Users\rodri\Desktop\code\TS\Projeto_Ts\Projeto\obj\Debug\Projeto.csproj.CopyComplete
+C:\Users\rodri\Desktop\code\TS\Projeto_Ts\Projeto\obj\Debug\Projeto.exe
+C:\Users\rodri\Desktop\code\TS\Projeto_Ts\Projeto\obj\Debug\Projeto.pdb
+D:\Escola\2º Semestre\Topicos de Seguranca\Projeto_Ts\Projeto\bin\Debug\Projeto.exe.config
+D:\Escola\2º Semestre\Topicos de Seguranca\Projeto_Ts\Projeto\bin\Debug\Projeto.exe
+D:\Escola\2º Semestre\Topicos de Seguranca\Projeto_Ts\Projeto\bin\Debug\Projeto.pdb
+D:\Escola\2º Semestre\Topicos de Seguranca\Projeto_Ts\Projeto\obj\Debug\Projeto.csproj.AssemblyReference.cache
+D:\Escola\2º Semestre\Topicos de Seguranca\Projeto_Ts\Projeto\obj\Debug\Projeto.csproj.SuggestedBindingRedirects.cache
+D:\Escola\2º Semestre\Topicos de Seguranca\Projeto_Ts\Projeto\obj\Debug\Projeto.Form1.resources
+D:\Escola\2º Semestre\Topicos de Seguranca\Projeto_Ts\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+D:\Escola\2º Semestre\Topicos de Seguranca\Projeto_Ts\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+D:\Escola\2º Semestre\Topicos de Seguranca\Projeto_Ts\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+D:\Escola\2º Semestre\Topicos de Seguranca\Projeto_Ts\Projeto\obj\Debug\Projeto.csproj.CopyComplete
+D:\Escola\2º Semestre\Topicos de Seguranca\Projeto_Ts\Projeto\obj\Debug\Projeto.exe
+D:\Escola\2º Semestre\Topicos de Seguranca\Projeto_Ts\Projeto\obj\Debug\Projeto.pdb
+C:\Users\markm\Desktop\Escola\Semestre2\Topicos Seguranca\2211885_2211881_2212631\2211885_2211881_2212631\Projeto_Ts\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\markm\Desktop\Escola\Semestre2\Topicos Seguranca\2211885_2211881_2212631\2211885_2211881_2212631\Projeto_Ts\Projeto\bin\Debug\Projeto.exe
+C:\Users\markm\Desktop\Escola\Semestre2\Topicos Seguranca\2211885_2211881_2212631\2211885_2211881_2212631\Projeto_Ts\Projeto\bin\Debug\Projeto.pdb
+C:\Users\markm\Desktop\Escola\Semestre2\Topicos Seguranca\2211885_2211881_2212631\2211885_2211881_2212631\Projeto_Ts\Projeto\obj\Debug\Projeto.csproj.AssemblyReference.cache
+C:\Users\markm\Desktop\Escola\Semestre2\Topicos Seguranca\2211885_2211881_2212631\2211885_2211881_2212631\Projeto_Ts\Projeto\obj\Debug\Projeto.Form1.resources
+C:\Users\markm\Desktop\Escola\Semestre2\Topicos Seguranca\2211885_2211881_2212631\2211885_2211881_2212631\Projeto_Ts\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\markm\Desktop\Escola\Semestre2\Topicos Seguranca\2211885_2211881_2212631\2211885_2211881_2212631\Projeto_Ts\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\markm\Desktop\Escola\Semestre2\Topicos Seguranca\2211885_2211881_2212631\2211885_2211881_2212631\Projeto_Ts\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\markm\Desktop\Escola\Semestre2\Topicos Seguranca\2211885_2211881_2212631\2211885_2211881_2212631\Projeto_Ts\Projeto\obj\Debug\Projeto.csproj.CopyComplete
+C:\Users\markm\Desktop\Escola\Semestre2\Topicos Seguranca\2211885_2211881_2212631\2211885_2211881_2212631\Projeto_Ts\Projeto\obj\Debug\Projeto.exe
+C:\Users\markm\Desktop\Escola\Semestre2\Topicos Seguranca\2211885_2211881_2212631\2211885_2211881_2212631\Projeto_Ts\Projeto\obj\Debug\Projeto.pdb
+C:\Users\markm\Desktop\Escola\Semestre2\Topicos Seguranca\2211885_2211881_2212631\2211885_2211881_2212631\Projeto_Ts\Projeto\obj\Debug\Projeto.LoginRegister.resources
+C:\Users\markm\Desktop\Escola\Semestre2\Topicos Seguranca\2211885_2211881_2212631\2211885_2211881_2212631\Projeto_Ts\Projeto\bin\Debug\Newtonsoft.Json.dll
+C:\Users\markm\Desktop\Escola\Semestre2\Topicos Seguranca\2211885_2211881_2212631\2211885_2211881_2212631\Projeto_Ts\Projeto\bin\Debug\Newtonsoft.Json.xml
+C:\Users\leomi\OneDrive\Ambiente de Trabalho\2211885_2211881_2212631\2211885_2211881_2212631\Projeto_Ts\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\leomi\OneDrive\Ambiente de Trabalho\2211885_2211881_2212631\2211885_2211881_2212631\Projeto_Ts\Projeto\bin\Debug\Projeto.exe
+C:\Users\leomi\OneDrive\Ambiente de Trabalho\2211885_2211881_2212631\2211885_2211881_2212631\Projeto_Ts\Projeto\bin\Debug\Projeto.pdb
+C:\Users\leomi\OneDrive\Ambiente de Trabalho\2211885_2211881_2212631\2211885_2211881_2212631\Projeto_Ts\Projeto\bin\Debug\Newtonsoft.Json.dll
+C:\Users\leomi\OneDrive\Ambiente de Trabalho\2211885_2211881_2212631\2211885_2211881_2212631\Projeto_Ts\Projeto\bin\Debug\Newtonsoft.Json.xml
+C:\Users\leomi\OneDrive\Ambiente de Trabalho\2211885_2211881_2212631\2211885_2211881_2212631\Projeto_Ts\Projeto\obj\Debug\Projeto.csproj.AssemblyReference.cache
+C:\Users\leomi\OneDrive\Ambiente de Trabalho\2211885_2211881_2212631\2211885_2211881_2212631\Projeto_Ts\Projeto\obj\Debug\Projeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\leomi\OneDrive\Ambiente de Trabalho\2211885_2211881_2212631\2211885_2211881_2212631\Projeto_Ts\Projeto\obj\Debug\Projeto.Form1.resources
+C:\Users\leomi\OneDrive\Ambiente de Trabalho\2211885_2211881_2212631\2211885_2211881_2212631\Projeto_Ts\Projeto\obj\Debug\Projeto.LoginRegister.resources
+C:\Users\leomi\OneDrive\Ambiente de Trabalho\2211885_2211881_2212631\2211885_2211881_2212631\Projeto_Ts\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\leomi\OneDrive\Ambiente de Trabalho\2211885_2211881_2212631\2211885_2211881_2212631\Projeto_Ts\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\leomi\OneDrive\Ambiente de Trabalho\2211885_2211881_2212631\2211885_2211881_2212631\Projeto_Ts\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\leomi\OneDrive\Ambiente de Trabalho\2211885_2211881_2212631\2211885_2211881_2212631\Projeto_Ts\Projeto\obj\Debug\Projeto.csproj.CopyComplete
+C:\Users\leomi\OneDrive\Ambiente de Trabalho\2211885_2211881_2212631\2211885_2211881_2212631\Projeto_Ts\Projeto\obj\Debug\Projeto.exe
+C:\Users\leomi\OneDrive\Ambiente de Trabalho\2211885_2211881_2212631\2211885_2211881_2212631\Projeto_Ts\Projeto\obj\Debug\Projeto.pdb
+D:\Escola\2º Semestre\Topicos de Seguranca\Projeto_Ts\Projeto\bin\Debug\Newtonsoft.Json.dll
+D:\Escola\2º Semestre\Topicos de Seguranca\Projeto_Ts\Projeto\bin\Debug\Newtonsoft.Json.xml
+D:\Escola\2º Semestre\Topicos de Seguranca\Projeto_Ts\Projeto\obj\Debug\Projeto.LoginRegister.resources
+C:\Users\markm\Desktop\Escola\Semestre2\Topicos Seguranca\Projeto_Ts\Projeto\obj\Debug\Projeto.csproj.AssemblyReference.cache
+C:\Users\markm\Desktop\Escola\Semestre2\Topicos Seguranca\Projeto_Ts\Projeto\obj\Debug\Projeto.exe
+C:\Users\markm\Desktop\Escola\Semestre2\Topicos Seguranca\Projeto_Ts\Projeto\obj\Debug\Projeto.pdb
+C:\Users\markm\Desktop\Escola\Semestre2\Topicos Seguranca\Projeto_Ts\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\markm\Desktop\Escola\Semestre2\Topicos Seguranca\Projeto_Ts\Projeto\bin\Debug\Projeto.exe
+C:\Users\markm\Desktop\Escola\Semestre2\Topicos Seguranca\Projeto_Ts\Projeto\bin\Debug\Projeto.pdb
+C:\Users\markm\Desktop\Escola\Semestre2\Topicos Seguranca\Projeto_Ts\Projeto\bin\Debug\Newtonsoft.Json.dll
+C:\Users\markm\Desktop\Escola\Semestre2\Topicos Seguranca\Projeto_Ts\Projeto\bin\Debug\ProtocolSI.dll
+C:\Users\markm\Desktop\Escola\Semestre2\Topicos Seguranca\Projeto_Ts\Projeto\bin\Debug\Newtonsoft.Json.xml
+C:\Users\markm\Desktop\Escola\Semestre2\Topicos Seguranca\Projeto_Ts\Projeto\obj\Debug\Projeto.Form1.resources
+C:\Users\markm\Desktop\Escola\Semestre2\Topicos Seguranca\Projeto_Ts\Projeto\obj\Debug\Projeto.LoginRegister.resources
+C:\Users\markm\Desktop\Escola\Semestre2\Topicos Seguranca\Projeto_Ts\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\markm\Desktop\Escola\Semestre2\Topicos Seguranca\Projeto_Ts\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\markm\Desktop\Escola\Semestre2\Topicos Seguranca\Projeto_Ts\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\markm\Desktop\Escola\Semestre2\Topicos Seguranca\Projeto_Ts\Projeto\obj\Debug\Projeto.csproj.CopyComplete
+C:\Users\markm\Desktop\Escola\Semestre2\Topicos Seguranca\Projeto_Ts\Projeto\obj\Debug\Projeto.csproj.SuggestedBindingRedirects.cache

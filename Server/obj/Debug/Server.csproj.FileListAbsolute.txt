@@ -1,0 +1,56 @@
+C:\Users\rodri\Desktop\code\TS\Projeto_Ts\Server\bin\Debug\Server.exe.config
+C:\Users\rodri\Desktop\code\TS\Projeto_Ts\Server\bin\Debug\Server.exe
+C:\Users\rodri\Desktop\code\TS\Projeto_Ts\Server\bin\Debug\Server.pdb
+C:\Users\rodri\Desktop\code\TS\Projeto_Ts\Server\bin\Debug\ProtocolSI.dll
+C:\Users\rodri\Desktop\code\TS\Projeto_Ts\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\rodri\Desktop\code\TS\Projeto_Ts\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\rodri\Desktop\code\TS\Projeto_Ts\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Desktop\code\TS\Projeto_Ts\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\rodri\Desktop\code\TS\Projeto_Ts\Server\obj\Debug\Server.exe
+C:\Users\rodri\Desktop\code\TS\Projeto_Ts\Server\obj\Debug\Server.pdb
+D:\Escola\2º Semestre\Topicos de Seguranca\Projeto_Ts\Server\bin\Debug\Server.exe.config
+D:\Escola\2º Semestre\Topicos de Seguranca\Projeto_Ts\Server\bin\Debug\Server.exe
+D:\Escola\2º Semestre\Topicos de Seguranca\Projeto_Ts\Server\bin\Debug\Server.pdb
+D:\Escola\2º Semestre\Topicos de Seguranca\Projeto_Ts\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\Escola\2º Semestre\Topicos de Seguranca\Projeto_Ts\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+D:\Escola\2º Semestre\Topicos de Seguranca\Projeto_Ts\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Escola\2º Semestre\Topicos de Seguranca\Projeto_Ts\Server\obj\Debug\Server.csproj.CopyComplete
+D:\Escola\2º Semestre\Topicos de Seguranca\Projeto_Ts\Server\obj\Debug\Server.exe
+D:\Escola\2º Semestre\Topicos de Seguranca\Projeto_Ts\Server\obj\Debug\Server.pdb
+C:\Users\markm\Desktop\Escola\Semestre2\Topicos Seguranca\2211885_2211881_2212631\2211885_2211881_2212631\Projeto_Ts\Server\bin\Debug\Server.exe.config
+C:\Users\markm\Desktop\Escola\Semestre2\Topicos Seguranca\2211885_2211881_2212631\2211885_2211881_2212631\Projeto_Ts\Server\bin\Debug\Server.exe
+C:\Users\markm\Desktop\Escola\Semestre2\Topicos Seguranca\2211885_2211881_2212631\2211885_2211881_2212631\Projeto_Ts\Server\bin\Debug\Server.pdb
+C:\Users\markm\Desktop\Escola\Semestre2\Topicos Seguranca\2211885_2211881_2212631\2211885_2211881_2212631\Projeto_Ts\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\markm\Desktop\Escola\Semestre2\Topicos Seguranca\2211885_2211881_2212631\2211885_2211881_2212631\Projeto_Ts\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\markm\Desktop\Escola\Semestre2\Topicos Seguranca\2211885_2211881_2212631\2211885_2211881_2212631\Projeto_Ts\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\markm\Desktop\Escola\Semestre2\Topicos Seguranca\2211885_2211881_2212631\2211885_2211881_2212631\Projeto_Ts\Server\obj\Debug\Server.exe
+C:\Users\markm\Desktop\Escola\Semestre2\Topicos Seguranca\2211885_2211881_2212631\2211885_2211881_2212631\Projeto_Ts\Server\obj\Debug\Server.pdb
+C:\Users\markm\Desktop\Escola\Semestre2\Topicos Seguranca\2211885_2211881_2212631\2211885_2211881_2212631\Projeto_Ts\Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\markm\Desktop\Escola\Semestre2\Topicos Seguranca\2211885_2211881_2212631\2211885_2211881_2212631\Projeto_Ts\Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\leomi\OneDrive\Ambiente de Trabalho\2211885_2211881_2212631\2211885_2211881_2212631\Projeto_Ts\Server\bin\Debug\Server.exe.config
+C:\Users\leomi\OneDrive\Ambiente de Trabalho\2211885_2211881_2212631\2211885_2211881_2212631\Projeto_Ts\Server\bin\Debug\Server.exe
+C:\Users\leomi\OneDrive\Ambiente de Trabalho\2211885_2211881_2212631\2211885_2211881_2212631\Projeto_Ts\Server\bin\Debug\Server.pdb
+C:\Users\leomi\OneDrive\Ambiente de Trabalho\2211885_2211881_2212631\2211885_2211881_2212631\Projeto_Ts\Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\leomi\OneDrive\Ambiente de Trabalho\2211885_2211881_2212631\2211885_2211881_2212631\Projeto_Ts\Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\leomi\OneDrive\Ambiente de Trabalho\2211885_2211881_2212631\2211885_2211881_2212631\Projeto_Ts\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\leomi\OneDrive\Ambiente de Trabalho\2211885_2211881_2212631\2211885_2211881_2212631\Projeto_Ts\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\leomi\OneDrive\Ambiente de Trabalho\2211885_2211881_2212631\2211885_2211881_2212631\Projeto_Ts\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\leomi\OneDrive\Ambiente de Trabalho\2211885_2211881_2212631\2211885_2211881_2212631\Projeto_Ts\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\leomi\OneDrive\Ambiente de Trabalho\2211885_2211881_2212631\2211885_2211881_2212631\Projeto_Ts\Server\obj\Debug\Server.exe
+C:\Users\leomi\OneDrive\Ambiente de Trabalho\2211885_2211881_2212631\2211885_2211881_2212631\Projeto_Ts\Server\obj\Debug\Server.pdb
+D:\Escola\2º Semestre\Topicos de Seguranca\Projeto_Ts\Server\bin\Debug\Newtonsoft.Json.dll
+D:\Escola\2º Semestre\Topicos de Seguranca\Projeto_Ts\Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\markm\Desktop\Escola\Semestre2\Topicos Seguranca\Projeto_Ts\Server\bin\Debug\Server.exe.config
+C:\Users\markm\Desktop\Escola\Semestre2\Topicos Seguranca\Projeto_Ts\Server\bin\Debug\Server.exe
+C:\Users\markm\Desktop\Escola\Semestre2\Topicos Seguranca\Projeto_Ts\Server\bin\Debug\Server.pdb
+C:\Users\markm\Desktop\Escola\Semestre2\Topicos Seguranca\Projeto_Ts\Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\markm\Desktop\Escola\Semestre2\Topicos Seguranca\Projeto_Ts\Server\bin\Debug\ProtocolSI.dll
+C:\Users\markm\Desktop\Escola\Semestre2\Topicos Seguranca\Projeto_Ts\Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\markm\Desktop\Escola\Semestre2\Topicos Seguranca\Projeto_Ts\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\markm\Desktop\Escola\Semestre2\Topicos Seguranca\Projeto_Ts\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\markm\Desktop\Escola\Semestre2\Topicos Seguranca\Projeto_Ts\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\markm\Desktop\Escola\Semestre2\Topicos Seguranca\Projeto_Ts\Server\obj\Debug\Server.exe
+C:\Users\markm\Desktop\Escola\Semestre2\Topicos Seguranca\Projeto_Ts\Server\obj\Debug\Server.pdb
+C:\Users\markm\Desktop\Escola\Semestre2\Topicos Seguranca\Projeto_Ts\Server\bin\Debug\TSDatabase.mdf
+C:\Users\markm\Desktop\Escola\Semestre2\Topicos Seguranca\Projeto_Ts\Server\bin\Debug\TSDatabase_log.ldf
+C:\Users\markm\Desktop\Escola\Semestre2\Topicos Seguranca\Projeto_Ts\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
